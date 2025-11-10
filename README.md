@@ -27,9 +27,8 @@ Each test case:
 
 Browser type (Edge or Chrome) can be chosen via command-line parameters (Default: Edge).
 
-
+[Test_Cases.xlsx](https://github.com/user-attachments/files/23448675/Test_Cases.xlsx)
 
 https://github.com/user-attachments/assets/4760db10-f9c8-4632-86c9-57c76073f6b2
 
-[Test_Cases.xlsx](https://github.com/user-attachments/files/22907818/Test_Cases.xlsx)
 
